@@ -100,4 +100,4 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Snippet', name: 'snippet', widget: 'gist' }
+      - { label: 'Snippet', name: 'snippet', widget: 'code' }
