@@ -6,7 +6,7 @@ theme = "dot-hugo"
 # site title
 title = "GTMA Web Division Docs"
 # disable language
-disableLanguages = true
+disableLanguages = ['fr']
 # google analytics
 googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
 # unsafe html
@@ -36,7 +36,7 @@ white_color = "#ffffff"
 light_color = "#f8f9fa"
 
 # font family
-font_family = "montserrat" # Choose font family from : https://fonts.google.com/
+font_family = "JetBrains Mono" # Choose font family from : https://fonts.google.com/
 
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
@@ -68,12 +68,12 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 weight = 1
-copyright = "Copyright &copy; 2021 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright &copy; 2022 - GTMA Web Division - All Rights Reserved"
 
 # banner
 [Languages.en.params.banner]
-title = "Support Center & Knowledge base"
-subtitle = "Find advice and answers from our support team fast or get in touch"
+title = "Knowledge base and SOP"
+subtitle = "Working in web, and working with web at GTMA"
 bg_image = "images/banner.jpg"
 placeholder = "Have a question? Just ask here or enter terms"
 
@@ -81,13 +81,13 @@ placeholder = "Have a question? Just ask here or enter terms"
 [Languages.en.params.cta]
 enable = true
 title = "Didn't find an answer to your question?"
-content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+content = "Ping us on chat!"
 # call to action button
 
 [Languages.en.params.cta.button]
 enable = true
-label = "contact us"
-link = "contact/"
+label = "Google Chat"
+link = "https://chat.google.com/"
 
 
 ################## english navigation #################
