@@ -101,4 +101,3 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Snippet', name: 'snippet', widget: 'code' }
-      - { label: 'Gist', name: 'gist', widget: 'gist' }
