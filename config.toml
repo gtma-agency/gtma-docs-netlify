@@ -113,20 +113,20 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "docs"
-  name = "Installation"
-  url = "installation/"
+  name = "UX & Strategy"
+  url = "ux/"
   weight = 1
 
   [[Languages.en.menu.main]]
   parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing/"
+  name = "Design"
+  url = "design/"
   weight = 2
 
   [[Languages.en.menu.main]]
   parent = "docs"
-  name = "Features"
-  url = "features/"
+  name = "Developent"
+  url = "development/"
   weight = 3
 
 

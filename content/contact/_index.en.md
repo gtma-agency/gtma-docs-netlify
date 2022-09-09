@@ -1,6 +1,6 @@
 ---
-title: "Got Any Questions"
+title: "Submit a Ticket"
 draft: false
 ---
 
-Submit the form and confirm your email address at [Formspree](https://formspree.io/).
+Submit the form and we'll get back to you soon.
