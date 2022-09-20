@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "/"
+baseURL = "docs.gtma.dev"
 # theme
 theme = "dot-hugo"
 # site title
