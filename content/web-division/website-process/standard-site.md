@@ -6,9 +6,9 @@ weight: ""
 draft: false
 ---
 
-|BEGIN RESEARCH + STRATEGY| Who | Client
+| BEGIN RESEARCH + STRATEGY | Who | Client
 |---|---|:---:
-|Send Survey| AM, OPS|
+| Send Survey | AM, OPS|
 | Sales Hand-off | Sales, AM, Web | 
 | Competitor and Audience Research | UX/UI |
 | __Discovery Call__ | AM, Des, Dev, SEO | __X__
@@ -24,7 +24,7 @@ draft: false
 |Wireframes review| All |
 |Wireframes client review| AM | __X__
 
-|BEGIN DESIGN| Who? |
+| BEGIN DESIGN | Who? |
 |---|---|:---:|
 |Homepage| Des |
 |Homepage internal review| AM, Des, Dev, SEO |
@@ -38,7 +38,7 @@ draft: false
 |Final revisions client review| AM, Des | __X__
 |Prep design for development| Des
 
-|BEGIN DEVELOPMENT| |
+| BEGIN DEVELOPMENT | |
 |---|---|:---:
 |Design to development hand-off| Des, Dev |
 |Site Setup: Homepage, header, footer, content blocks| Dev |
