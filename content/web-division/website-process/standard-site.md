@@ -6,10 +6,12 @@ weight: ""
 draft: false
 ---
 
-|BEGIN RESEARCH + STRATEGY| GTMA Presence | Client
+|BEGIN RESEARCH + STRATEGY| Who | Client
 |---|---|:---:
 |Send Survey| AM, OPS|
-| __Client discovery__ | AM, Des, Dev, SEO | __X__
+| Sales Hand-off | Sales, AM, Web | 
+| Competitor and Audience Research | UX/UI |
+| __Discovery Call__ | AM, Des, Dev, SEO | __X__
 |Team kick-off| AM, Des, Dev, SEO |
 |Keyword research| SEO |
 |Information architecture & Sitemap (IA)| SEO, Des |
